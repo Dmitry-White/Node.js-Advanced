@@ -25,3 +25,6 @@ https://auth0.com/blog/an-introduction-to-microservices-part-3-the-service-regis
 
 ## Load Balancer
 https://auth0.com/blog/an-introduction-to-microservices-part-2-API-gateway/
+
+### To Explore
+https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbEzejFKFRYfkLGYyOOwq58
