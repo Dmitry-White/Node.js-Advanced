@@ -21,5 +21,7 @@ https://cloud.ibm.com/docs/node?topic=node-node-healthcheck
 ## Heartbeat
 
 ## Service Discovery / Service Registery
+https://auth0.com/blog/an-introduction-to-microservices-part-3-the-service-registry/
 
 ## Load Balancer
+https://auth0.com/blog/an-introduction-to-microservices-part-2-API-gateway/
