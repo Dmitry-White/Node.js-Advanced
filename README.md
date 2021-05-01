@@ -17,3 +17,9 @@ https://expressjs.com/en/advanced/healthcheck-graceful-shutdown.html
 
 ## Using a health check in Node.js apps
 https://cloud.ibm.com/docs/node?topic=node-node-healthcheck
+
+## Heartbeat
+
+## Service Discovery / Service Registery
+
+## Load Balancer
